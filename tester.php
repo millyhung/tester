@@ -1,6 +1,5 @@
 <?php
 function phptest(){
-  echo 'tester';
 }
 ?>
 <!DOCTYPE html>
